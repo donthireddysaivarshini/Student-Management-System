@@ -1,4 +1,4 @@
-# Student Management System �️
+# Student Management System 
 
 **Role-based Java Swing application for academic management**
 
@@ -18,4 +18,4 @@
 - **Security**: Role-based authentication  
 
 ## DEMO
-![Demo Video](Recording.mp4)
+![Demo Video](Demo.mp4)
