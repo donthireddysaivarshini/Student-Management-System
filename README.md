@@ -79,18 +79,6 @@ Before running the project, ensure you have the following installed:
 
 ---
 
-## 🧪 Demo Credentials (for Testing)
-
-| Role     | Username | Password  |
-|----------|----------|-----------|
-| Admin    | admin    | admin123  |
-| Teacher  | teacher1 | teach123  |
-| Student  | student1 | stud123   |
-
-> You can find and update these credentials in your MySQL database after setup.
-
----
-
 ## 📹 Demo Video
 
 🎥 Watch the full project demo here on LinkedIn:  
